@@ -23,13 +23,13 @@
     },
     "autoload": {
         "psr-4": {
-            "AlbertCht\\InvisibleReCaptcha\\": "src/"
+            "Elevati\\InvisibleReCaptcha\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "AlbertCht\\InvisibleReCaptcha\\InvisibleReCaptchaServiceProvider"
+                "Elevati\\InvisibleReCaptcha\\InvisibleReCaptchaServiceProvider"
             ]
         }
     }
